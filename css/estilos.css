@@ -28,8 +28,10 @@ a {
 }
 
 a:hover {
-  background-color: #fff;
+  background-color: #c3b1ee;
   color: #000;
+  border-radius: 4px;
+  transition: 0.7s;
 }
 
 /* .divisor {
